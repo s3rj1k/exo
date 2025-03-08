@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  exo:
+  - apiVersion: v2
+    appVersion: 0.0.15
+    created: "2025-03-08T19:34:40.544501141Z"
+    description: A Helm chart for Exo
+    digest: a2ba1b979129d275631457710c6be7790dec3b6b72b9e1aba319170b4b9d91c5
+    name: exo
+    type: application
+    urls:
+    - https://github.com/s3rj1k/exo/releases/download/exo-0.0.1/exo-0.0.1.tgz
+    version: 0.0.1
+generated: "2025-03-08T19:34:40.544506742Z"
